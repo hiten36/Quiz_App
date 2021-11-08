@@ -1,1 +1,221 @@
-var _0x12292c=_0x2f7f;function _0x1d34(){var _0x565cf5=['hid','false','850645RnzfLd','innerHTML','</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>','target','https://opentdb.com/api.php?amount=1','972580ckiVgT','.score','1722654zGxqJF','block','querySelectorAll','168GJkNLe','<h4>Q.\x20','</h4>','results','.op1','add','value','.lds-grid','10uXXBpH','.finish','inline-block','active-pt','concat','floor','active','</p>','65748btvAGi','<div\x20class=\x22op1\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pt\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>','innerText','.next','getElementById','querySelector','.alert','remove','contains','none','4578903dAlgyE','style','.box1','.opt','correct_answer','.submit','1505403NognJX','click','DIV','children','.active','classList','display','.ques','previousElementSibling','4521292rUWwIj','parentNode','true','addEventListener'];_0x1d34=function(){return _0x565cf5;};return _0x1d34();}(function(_0x199dc2,_0x262693){var _0x59921d=_0x2f7f,_0x527456=_0x199dc2();while(!![]){try{var _0x507194=-parseInt(_0x59921d(0xe5))/0x1+parseInt(_0x59921d(0xea))/0x2+-parseInt(_0x59921d(0xc6))/0x3+-parseInt(_0x59921d(0xdf))/0x4+-parseInt(_0x59921d(0xbe))/0x5*(parseInt(_0x59921d(0xec))/0x6)+-parseInt(_0x59921d(0xd0))/0x7+parseInt(_0x59921d(0xb6))/0x8*(parseInt(_0x59921d(0xd6))/0x9);if(_0x507194===_0x262693)break;else _0x527456['push'](_0x527456['shift']());}catch(_0x3b9dd3){_0x527456['push'](_0x527456['shift']());}}}(_0x1d34,0xbb6b2),n1=0x0,n2=0x0,flag=![]);function _0x2f7f(_0x48cfbf,_0x2ae64a){var _0x1d34eb=_0x1d34();return _0x2f7f=function(_0x2f7fba,_0x1b6e82){_0x2f7fba=_0x2f7fba-0xb5;var _0x5061a5=_0x1d34eb[_0x2f7fba];return _0x5061a5;},_0x2f7f(_0x48cfbf,_0x2ae64a);}async function getQuiz(){var _0x321ffa=_0x2f7f;document[_0x321ffa(0xcb)]('.finish')[_0x321ffa(0xd1)]['display']=_0x321ffa(0xcf),document[_0x321ffa(0xcb)](_0x321ffa(0xc9))['style'][_0x321ffa(0xdc)]=_0x321ffa(0xcf),document[_0x321ffa(0xcb)]('.submit')[_0x321ffa(0xd1)]['display']=_0x321ffa(0xed),document[_0x321ffa(0xcb)](_0x321ffa(0xd2))[_0x321ffa(0xd1)]['display']=_0x321ffa(0xcf),document[_0x321ffa(0xcb)]('.box2')[_0x321ffa(0xd1)][_0x321ffa(0xdc)]=_0x321ffa(0xcf),document[_0x321ffa(0xcb)](_0x321ffa(0xbd))['style']['display']=_0x321ffa(0xc0);var _0x2e91ce=_0x321ffa(0xe9),_0x1185f1=await fetch(_0x2e91ce),_0x4f3e98=await _0x1185f1['json']();let _0xfa0f7c=[];_0xfa0f7c['push'](_0x4f3e98['results'][0x0][_0x321ffa(0xd4)]),document['getElementById']('hid')[_0x321ffa(0xbc)]=_0x4f3e98[_0x321ffa(0xb9)][0x0][_0x321ffa(0xd4)],_0xfa0f7c=_0xfa0f7c[_0x321ffa(0xc2)](_0x4f3e98['results'][0x0]['incorrect_answers']);function _0x2d3309(_0xf37501){var _0x563b1a=_0x321ffa,_0x5c2306=_0xf37501['length'],_0x4164bd;while(_0x5c2306!=0x0){_0x4164bd=Math[_0x563b1a(0xc3)](Math['random']()*_0x5c2306),_0x5c2306--,[_0xf37501[_0x5c2306],_0xf37501[_0x4164bd]]=[_0xf37501[_0x4164bd],_0xf37501[_0x5c2306]];}return _0xf37501;}var _0x4b1b81='';for(i of _0x2d3309(_0xfa0f7c)){_0x4b1b81+=_0x321ffa(0xc7)+i+_0x321ffa(0xe7);}document['querySelector']('.box1')['style'][_0x321ffa(0xdc)]=_0x321ffa(0xed),document[_0x321ffa(0xcb)](_0x321ffa(0xbd))[_0x321ffa(0xd1)][_0x321ffa(0xdc)]=_0x321ffa(0xcf),document[_0x321ffa(0xcb)](_0x321ffa(0xd3))[_0x321ffa(0xe6)]=_0x4b1b81,document[_0x321ffa(0xcb)](_0x321ffa(0xdd))[_0x321ffa(0xe6)]=_0x321ffa(0xb7)+_0x4f3e98['results'][0x0]['question']+_0x321ffa(0xb8),flag=!![];let _0x1d776d=document['querySelectorAll'](_0x321ffa(0xba));for(i of _0x1d776d){i[_0x321ffa(0xe2)]('click',_0x47c49a=>{var _0x3c1ff0=_0x321ffa;document[_0x3c1ff0(0xcb)](_0x3c1ff0(0xda))!=undefined&&(document[_0x3c1ff0(0xcb)](_0x3c1ff0(0xda))[_0x3c1ff0(0xdb)][_0x3c1ff0(0xcd)](_0x3c1ff0(0xc4)),document[_0x3c1ff0(0xcb)]('.active-pt')[_0x3c1ff0(0xdb)][_0x3c1ff0(0xcd)]('active-pt')),_0x47c49a[_0x3c1ff0(0xe8)]['tagName']==_0x3c1ff0(0xd8)?!_0x47c49a[_0x3c1ff0(0xe8)][_0x3c1ff0(0xdb)][_0x3c1ff0(0xce)]('pt')?(_0x47c49a[_0x3c1ff0(0xe8)][_0x3c1ff0(0xdb)][_0x3c1ff0(0xbb)]('active'),_0x47c49a[_0x3c1ff0(0xe8)][_0x3c1ff0(0xd9)][0x0][_0x3c1ff0(0xdb)]['add'](_0x3c1ff0(0xc1))):(_0x47c49a['target']['parentNode'][_0x3c1ff0(0xdb)][_0x3c1ff0(0xbb)](_0x3c1ff0(0xc4)),_0x47c49a[_0x3c1ff0(0xe8)][_0x3c1ff0(0xdb)]['add'](_0x3c1ff0(0xc1))):(_0x47c49a['target'][_0x3c1ff0(0xe0)][_0x3c1ff0(0xdb)]['add'](_0x3c1ff0(0xc4)),_0x47c49a[_0x3c1ff0(0xe8)][_0x3c1ff0(0xde)][_0x3c1ff0(0xdb)][_0x3c1ff0(0xbb)](_0x3c1ff0(0xc1)));});}}getQuiz(),document[_0x12292c(0xcb)](_0x12292c(0xd5))['addEventListener'](_0x12292c(0xd7),()=>{var _0x45863a=_0x12292c;flag=![];if(document[_0x45863a(0xcb)]('.active')!=undefined){n2++;let _0x14d37c=document[_0x45863a(0xca)](_0x45863a(0xe3))[_0x45863a(0xbc)],_0x22f14d=document[_0x45863a(0xcb)]('.active')[_0x45863a(0xd9)][0x1][_0x45863a(0xc8)];if(_0x14d37c==_0x22f14d)document[_0x45863a(0xcb)]('.active')['classList'][_0x45863a(0xbb)](_0x45863a(0xe1)),n1++;else{let _0x3fb7fc=document[_0x45863a(0xb5)]('.op1');for(i of _0x3fb7fc){if(i[_0x45863a(0xd9)][0x1]['innerText']==_0x14d37c){i[_0x45863a(0xdb)][_0x45863a(0xbb)](_0x45863a(0xe1));break;}}document[_0x45863a(0xcb)](_0x45863a(0xda))[_0x45863a(0xdb)]['add'](_0x45863a(0xe4));}document['querySelector'](_0x45863a(0xbf))[_0x45863a(0xd1)][_0x45863a(0xdc)]='block',document['querySelector'](_0x45863a(0xc9))['style'][_0x45863a(0xdc)]=_0x45863a(0xed),document['querySelector']('.submit')[_0x45863a(0xd1)]['display']='none',document[_0x45863a(0xcb)](_0x45863a(0xeb))['innerHTML']='<p>'+n1+'/'+n2+_0x45863a(0xc5);}else document[_0x45863a(0xcb)](_0x45863a(0xcc))[_0x45863a(0xd1)][_0x45863a(0xdc)]=_0x45863a(0xed);}),document[_0x12292c(0xcb)]('.next')[_0x12292c(0xe2)](_0x12292c(0xd7),()=>{var _0x548c66=_0x12292c;document['querySelector']('.box1')[_0x548c66(0xd1)][_0x548c66(0xdc)]='none',document['querySelector']('.lds-grid')[_0x548c66(0xd1)][_0x548c66(0xdc)]=_0x548c66(0xc0),getQuiz();}),document[_0x12292c(0xcb)](_0x12292c(0xbf))['addEventListener']('click',()=>{var _0x186b08=_0x12292c;flag=![],document['querySelector'](_0x186b08(0xd2))[_0x186b08(0xd1)][_0x186b08(0xdc)]=_0x186b08(0xcf),document[_0x186b08(0xcb)]('.box2')['style'][_0x186b08(0xdc)]=_0x186b08(0xed),document[_0x186b08(0xca)]('fsc')[_0x186b08(0xc8)]=n1+'/'+n2;}),document[_0x12292c(0xcb)]('.play')[_0x12292c(0xe2)](_0x12292c(0xd7),()=>{var _0x5b0c2f=_0x12292c;document[_0x5b0c2f(0xcb)](_0x5b0c2f(0xd2))[_0x5b0c2f(0xd1)][_0x5b0c2f(0xdc)]=_0x5b0c2f(0xcf),document[_0x5b0c2f(0xcb)](_0x5b0c2f(0xbd))[_0x5b0c2f(0xd1)][_0x5b0c2f(0xdc)]='inline-block',n1=0x0,n2=0x0,getQuiz();}),document['querySelector'](_0x12292c(0xcc))[_0x12292c(0xe2)]('click',()=>{var _0x2c0453=_0x12292c;document[_0x2c0453(0xcb)](_0x2c0453(0xcc))[_0x2c0453(0xd1)][_0x2c0453(0xdc)]='none';});
+function main()
+{
+    let userName=prompt('Enter Your Name.. ');
+    if(userName)
+    {
+        document.querySelector('.uname').innerText=`${userName}`;
+        n1=0;
+        n2=0;
+        flag=false;
+        flag1=false;
+        mode_=0;
+        async function getQuiz(mode,flag1)
+        {
+            document.querySelector('.finish').style.display='none';
+            document.querySelector('.next').style.display='none';
+            document.querySelector('.submit').style.display='block';
+            document.querySelector('.box1').style.display='none';
+            document.querySelector('.box2').style.display='none';
+            document.querySelector('.lds-grid').style.display='inline-block';
+            if(flag1)
+            {
+                var url=`https://opentdb.com/api.php?amount=1&category=${mode}`;
+            }
+            else
+            {
+                var url=`https://opentdb.com/api.php?amount=1`;
+            }
+            var response=await fetch(url);
+            var data=await response.json();
+            let arr=[];
+            arr.push(data.results[0].correct_answer);
+            document.getElementById('hid').value=data.results[0].correct_answer;
+            arr=arr.concat(data.results[0].incorrect_answers);
+            function shuffle(array) {
+                var currentIndex = array.length,  randomIndex;
+            
+                // While there remain elements to shuffle...
+                while (currentIndex != 0) {
+            
+                    // Pick a remaining element...
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex--;
+            
+                    // And swap it with the current element.
+                    [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+                }
+            
+                return array;
+            }
+            var str1="";
+            for(i of shuffle(arr))
+            {
+                str1+=`<div class="op1">
+                    <div class="pt"></div>
+                    <h5>${i}</h5>
+                </div>`;
+            }
+            document.querySelector('.box1').style.display='block';
+            document.querySelector('.lds-grid').style.display='none';
+            document.querySelector('.opt').innerHTML=str1;
+            document.querySelector('.ques').innerHTML=`<h4>Q. ${data.results[0].question}</h4>`;
+            flag=true;
+        
+            let b1=document.querySelectorAll('.op1');
+            for(i of b1)
+            {
+                i.addEventListener('click',(e)=>{
+                    if(document.querySelector('.active')!=undefined)
+                    {
+                        document.querySelector('.active').classList.remove('active');
+                        document.querySelector('.active-pt').classList.remove('active-pt');
+                    }
+                    if(e.target.tagName=='DIV')
+                    {
+                        if(!e.target.classList.contains('pt'))
+                        {
+                            e.target.classList.add('active');
+                            e.target.children[0].classList.add('active-pt');
+                        }
+                        else
+                        {
+                            e.target.parentNode.classList.add('active');
+                            e.target.classList.add('active-pt');
+                        }
+                    }
+                    else
+                    {
+                        e.target.parentNode.classList.add('active');
+                        e.target.previousElementSibling.classList.add('active-pt');
+                    }
+                })
+            }
+        }
+        getQuiz(mode_,flag1);
+        
+        document.querySelector('.submit').addEventListener('click',()=>{
+            flag=false;
+            if(document.querySelector('.active')!=undefined)
+            {
+                n2++;
+                let c1=document.getElementById('hid').value;
+                let c2=document.querySelector('.active').children[1].innerText;
+                if(c1==c2)
+                {
+                    document.querySelector('.active').classList.add('true');
+                    n1++;
+                }
+                else
+                {
+                    let b2=document.querySelectorAll('.op1');
+                    for(i of b2)
+                    {
+                        if(i.children[1].innerText==c1)
+                        {
+                            i.classList.add('true');
+                            break;
+                        }
+                    }
+                    document.querySelector('.active').classList.add('false');
+                }
+                document.querySelector('.finish').style.display='block';
+                document.querySelector('.next').style.display='block';
+                document.querySelector('.submit').style.display='none';
+                document.querySelector('.score').innerHTML=`<p>${n1}/${n2}</p>`;
+            }
+            else
+            {
+                document.querySelector('.alert').style.display='block';
+            }
+        })
+        document.querySelector('.next').addEventListener('click',()=>{
+            document.querySelector('.box1').style.display='none';
+            document.querySelector('.lds-grid').style.display='inline-block';
+            getQuiz(mode_,flag1);
+        
+        })
+        document.querySelector('.finish').addEventListener('click',()=>{
+            flag=false;
+            document.querySelector('.box1').style.display='none';
+            document.querySelector('.box2').style.display='block';
+            document.getElementById('fsc').innerText=`${n1}/${n2}`;
+        
+        })
+        document.querySelector('.play').addEventListener('click',()=>{
+            document.querySelector('.box1').style.display='none';
+            document.querySelector('.lds-grid').style.display='inline-block';
+            n1=0;
+            n2=0;
+            getQuiz(mode_,flag1);
+        })
+        document.querySelector('.alert').addEventListener('click',()=>{
+            document.querySelector('.alert').style.display='none';
+        })
+        let b30=document.querySelectorAll('.mode');
+        for(i of b30)
+        {
+            i.addEventListener('click',(e)=>{
+                ids=e.target.id;
+                ids1=document.querySelector('.mode_active').id;
+                document.querySelector('.mode_active').classList.remove(`md${ids1}${ids1}`);
+                document.querySelector('.mode_active').classList.remove(`mode_active`);
+                e.target.classList.add('mode_active');
+                e.target.classList.add(`md${ids}${ids}`);
+                if(ids==1)
+                {
+                    flag1=true;
+                    mode_=9;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==2)
+                {
+                    flag1=true;
+                    mode_=21;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==3)
+                {
+                    flag1=true;
+                    mode_=23;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==4)
+                {
+                    flag1=true;
+                    mode_=24;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==5)
+                {
+                    flag1=true;
+                    mode_=25;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==6)
+                {
+                    flag1=true;
+                    mode_=18;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==7)
+                {
+                    flag1=true;
+                    mode_=19;
+                    getQuiz(mode_,flag1);
+                }
+                if(ids==8)
+                {
+                    flag1=false;
+                    mode_=0;
+                    getQuiz(mode_,flag1);
+                }
+            })
+        }
+    }
+    else
+    {
+        alert('Enter Your Name To Continue! ');
+        main();
+    }
+}
+main();
